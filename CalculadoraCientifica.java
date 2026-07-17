@@ -17,7 +17,4 @@ public class CalculadoraCientifica {
         return Math.sqrt(x); // Contextualização no arquivo 'Anotacoes.md' 
     }
 
-    
-
-
 }
